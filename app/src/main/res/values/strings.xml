@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">三十三所巡礼リスト</string>
+    <string name="tv_thx_title">ようこそ！</string>
+    <string name="tv_thx_desc">御朱印は札所本尊の分身ですので、大切にお持ちください。</string>
+    <string name="bt_thx_back">リストに戻る</string>
+</resources>
